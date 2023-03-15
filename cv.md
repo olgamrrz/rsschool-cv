@@ -4,7 +4,7 @@
 ### Contacs:
 - Phone: +79103956842
 - E-mail: olgamor97@gmail.com
-- Telegram: @olgmmm
+- Telegram: @olgmmmr
 
 
 ### Summary
@@ -52,6 +52,7 @@ var swiper = new Swiper(".mySwiper", {
 ```
 ### Experience
 Small freelance web-development projects
+Creating landing pages
 
 ### Education 
 FreeCodeCamp course: Legacy Responsive Web Design
